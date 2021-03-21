@@ -139,7 +139,7 @@ pyee==7.0.2
 pygeos==0.9
 Pygments==2.6.1
 pyparsing==2.4.6
-pypiwin32==223
+#pypiwin32==223
 pyppeteer==0.2.2
 pyproj==3.0.1
 pyquery==1.4.1

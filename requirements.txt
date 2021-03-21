@@ -24,7 +24,7 @@ codegen==1.0
 colorama==0.4.3
 colour==0.1.5
 configparser==5.0.0
-console==0.990
+#console==0.990
 crayons==0.3.0
 cssselect==1.1.0
 cycler==0.10.0
